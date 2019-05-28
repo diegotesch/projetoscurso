@@ -1,4 +1,4 @@
-<h1>Olá <?= $nome ?>!</h1>
-<h3>Você tem <?= $quantidade ?> anúncios</h3>
+<h1>OlÃ¡ <?= $nome ?>, vocÃª tÃªm <?= $idade ?>!</h1>
+<h3>VocÃª tem <?= $quantidade ?> anÃºncios</h3>
 
 <img src="http://www.google.com.br/google.jpg" />
