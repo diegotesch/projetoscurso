@@ -7,7 +7,7 @@ if(ENVIRONMENT == 'development'){
 	$config['dbname'] = 'mvc';
 	$config['host'] = 'localhost';
 	$config['dbuser'] = 'root';
-	$config['dbpass'] = '';
+	$config['dbpass'] = 'm10021988@';
 }else{
 	define("BASE_URL", "http://nomedosite.com.br/");
 	$config['dbname'] = 'mvc';
