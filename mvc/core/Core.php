@@ -3,7 +3,6 @@
 class Core {
 
 	public function run(){
-
 		/*
 		param 1 = controller
 		param 2 = action / acao

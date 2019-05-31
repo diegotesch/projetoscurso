@@ -1,2 +1,3 @@
 mvc/.htaccess
 mvc/config.php
+.gitignore

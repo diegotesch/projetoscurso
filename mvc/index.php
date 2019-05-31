@@ -1,5 +1,6 @@
 <?php
 session_start();
+
 require 'config.php';
 
 spl_autoload_register(function($class){
@@ -14,6 +15,6 @@ spl_autoload_register(function($class){
 
 });
 
-
 $core = new Core();
+
 $core->run();
