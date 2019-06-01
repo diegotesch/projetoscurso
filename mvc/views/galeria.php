@@ -1,3 +1,0 @@
-Galeria de Fotos...
-
-Abaixo estão as <?= $qt ?> fotos cadastradas.
