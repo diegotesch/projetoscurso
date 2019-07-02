@@ -1,0 +1,18 @@
+{
+    "name": "diego/teste_unitarios",
+    "authors": [
+        {
+            "name": "diegotesch",
+            "email": "diego.tesch@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}

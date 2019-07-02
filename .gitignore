@@ -1,3 +1,4 @@
 mvc/.htaccess
 mvc/config.php
+teste_unitarios/vendor
 .gitignore
