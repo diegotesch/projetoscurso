@@ -354,3 +354,26 @@ body{
   text-decoration: none;
   color: #000;
 }
+ 
+@media only screen and (max-width: 1055px){
+  .topoint, .topo2int, .menuint, .ultimasnoticiasint, .containerint{
+    max-width: 890px;
+  }
+
+  .leftside{
+    width: 600px; 
+  }
+
+  .noticiaarea1{
+    width: 278px;
+  }
+
+  .noticiabig .noticiaimg, .noticiabig .noticiaimg img{
+    width: 245px;
+  }
+
+  .noticiabig .noticiatitulo{
+    width: 245px;
+    font-size: 27px;
+  }
+}
