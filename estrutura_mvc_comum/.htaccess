@@ -1,0 +1,4 @@
+RewriteEngine ON
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /projetoscurso/estrutura_mvc_comum/index.php?url=$1 [QSA,L]
